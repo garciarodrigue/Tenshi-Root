@@ -1,0 +1,2 @@
+# Tenshi-Root
+Termux Root
