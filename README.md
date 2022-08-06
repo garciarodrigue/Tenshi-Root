@@ -1,8 +1,8 @@
 # Tenshi-Root
-# Termux Root
+### Termux Root
 # Instalación 
 #### git clone https://github.com/garciarodrigue/Tenshi-Root
-#### cd Tenshi-root
-#### chmod +x * Tenshi-root.sh
+#### cd Tenshi-Root
+#### chmod +x * Tenshi-Root.sh
 #### Ejecución 
-#### ./Tenshi-root.sh
+#### ./Tenshi-Root.sh
